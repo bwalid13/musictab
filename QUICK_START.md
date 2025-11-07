@@ -140,7 +140,6 @@
 ---
 
 **Version :** 1.0  
-**Auteur :** Basé sur Lumen (YouTube Cinema Mode)  
 **Date :** Octobre 2025
 
 🎵 **Profitez de votre musique avec style !** 🎵
