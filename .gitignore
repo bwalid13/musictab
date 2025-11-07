@@ -1,0 +1,50 @@
+# Archives et builds
+*.zip
+*.rar
+*.7z
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Fichiers de développement
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scripts de build spécifiques (garder seulement package.ps1)
+build.ps1
+minify_safe.py
+bundle.py
+verify.ps1
+verify.sh
+
+# Documentation de développement interne (pas pour les utilisateurs)
+CUSTOM_THEME_ARCHITECTURE.md
+DEBUG_CUSTOM_THEME.md
+THEMES_COMPLETE.md
+THEMES_GUIDE.md
+YOUTUNE_ANALYSIS.md
+TEST_GUIDE.md
+README_MUSICTAB.md
+
+# Dossier modules (si vous utilisez content.js bundled)
+modules/
+
+# Fichiers de test
+test/
+*.test.js
+
+# Logs
+*.log
+npm-debug.log*
