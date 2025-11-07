@@ -11,12 +11,12 @@ Transform your Chrome browser into a powerful local music player. Play your MP3 
 ## ✨ Features
 
 ### 🎧 Core Features
-- **Local File Playback** - Play MP3, WAV, FLAC, OGG, and other audio formats directly from your device
+- **Local MP3 Playback** - Play MP3 files directly from your device
 - **iTunes Metadata Integration** - Automatically fetch album covers, artist photos, and track information
-- **Beautiful Interface** - Clean, modern design that puts your music front and center
-- **Playlist Management** - Create and manage your playlists with ease
-- **Audio Visualizer** - Watch your music come to life with built-in visualizations
-- **Keyboard Shortcuts** - Control playback without touching your mouse
+- **Beautiful Interface** - Clean, modern design with multiple themes (iOS, Windows 11, Neumorphism, and more)
+- **Folder Support** - Load entire music folders automatically
+- **Audio Visualizer** - Watch your music come to life with stunning visual effects
+- **Ambiance Mode** - Dynamic background effects that match your music
 
 ### 🔒 Privacy First
 - ✅ All files processed locally on your device
@@ -25,12 +25,12 @@ Transform your Chrome browser into a powerful local music player. Play your MP3 
 - ✅ No tracking, no ads, no data collection
 
 ### 🎨 User Experience
-- Responsive design - works on all screen sizes
-- Album artwork display
-- Artist information and photos
-- Intuitive playback controls
+- Multiple professional themes (iOS, Windows 11, Neumorphism, etc.)
+- Album artwork display with dynamic ambiance effects
+- Artist information and photos from Wikipedia
+- Intuitive playback controls with beautiful animations
 - Volume control and progress bar
-- Track duration and time display
+- Shuffle and loop modes
 
 ---
 
@@ -59,12 +59,12 @@ Transform your Chrome browser into a powerful local music player. Play your MP3 
    - Or open a new tab (if configured)
 
 2. **Add Your Music**
-   - Click "Add Files" or drag and drop audio files
-   - MusicTab supports MP3, WAV, FLAC, OGG, and more
+   - Click "Select Folder" to load an entire music folder
+   - Or click "Add Files" to select individual MP3 files
 
 3. **Enjoy!**
    - Album covers and artist info load automatically
-   - Use controls or keyboard shortcuts to navigate
+   - Explore different themes and visual effects
 
 ---
 
@@ -73,25 +73,14 @@ Transform your Chrome browser into a powerful local music player. Play your MP3 
 | Action | Shortcut |
 |--------|----------|
 | Play/Pause | `Space` |
-| Next Track | `→` or `N` |
-| Previous Track | `←` or `P` |
-| Volume Up | `↑` |
-| Volume Down | `↓` |
-| Mute/Unmute | `M` |
-| Shuffle | `S` |
-| Repeat | `R` |
+| Next Track | `→` (Right Arrow) |
+| Previous Track | `←` (Left Arrow) |
 
 ---
 
-## 🎵 Supported Audio Formats
+## 🎵 Supported Audio Format
 
-- MP3 (.mp3)
-- WAV (.wav)
-- FLAC (.flac)
-- OGG (.ogg)
-- M4A (.m4a)
-- AAC (.aac)
-- And more...
+- **MP3 (.mp3)** - Full support with ID3 tag reading
 
 ---
 
