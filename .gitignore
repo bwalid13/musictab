@@ -39,6 +39,11 @@ TEST_GUIDE.md
 README_MUSICTAB.md
 README_OLD_LUMEN.md
 
+# Guides de publication internes
+GITHUB_PUBLISH_GUIDE.md
+PUBLICATION_CHECKLIST.md
+CHROME_STORE_JUSTIFICATIONS.md
+
 # Dossier modules (si vous utilisez content.js bundled)
 modules/
 
