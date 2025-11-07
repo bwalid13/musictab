@@ -120,11 +120,6 @@ musictab/
 └── package.ps1            # Build script
 ```
 
-### Building
-```powershell
-# Create distribution package
-.\package.ps1
-```
 
 ### Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
